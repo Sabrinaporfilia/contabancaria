@@ -49,30 +49,30 @@ public class Cores {
 	public static final String TEXT_BLACK_BOLD_BRIGTH = "\033[1;90m";
 	public static final String TEXT_RED_BOLD_BRIGTH = "\033[1;91m";
 	public static final String TEXT_GREEN_BOLD_BRIGTH = "\033[1;92m";
-	public static final String TEXT_YELLOW_BOLD_BRIGTH= "\033[1;93m";
+	public static final String TEXT_YELLOW_BOLD_BRIGTH = "\033[1;93m";
 	public static final String TEXT_BLUE_BOLD_BRIGTH = "\033[1;94m";
 	public static final String TEXT_PURPLE_BOLD_BRIGTH = "\033[1;95m";
-	public static final String TEXT_CYAN_BOLD_BRIGTH= "\033[1;96m";
-	public static final String TEXT_WHITE_BOLD_BRIGTH= "\033[1;97m";
-	
-	//Cor do fundo
+	public static final String TEXT_CYAN_BOLD_BRIGTH = "\033[1;96m";
+	public static final String TEXT_WHITE_BOLD_BRIGTH = "\033[1;97m";
+
+	// Cor do fundo
 	public static final String ANSI_BLACK_BLACKGROUND = "\u001B[40m";
-	public static final String ANSI_RED_BLACKGROUND  = "\u001B[41m";
-	public static final String ANSI_GREEN_BLACKGROUND  = "\u001B[42m";
+	public static final String ANSI_RED_BLACKGROUND = "\u001B[41m";
+	public static final String ANSI_GREEN_BLACKGROUND = "\u001B[42m";
 	public static final String ANSI_YELLOW_BLACKGROUND = "\u001B[43m";
-	public static final String ANSI_BLUE_BLACKGROUND  = "\u001B[44m";
-	public static final String ANSI_PURPLE_BLACKGROUND  = "\u001B[45m";
+	public static final String ANSI_BLUE_BLACKGROUND = "\u001B[44m";
+	public static final String ANSI_PURPLE_BLACKGROUND = "\u001B[45m";
 	public static final String ANSI_CYAN_BLACKGROUND = "\u001B[46m";
 	public static final String ANSI_WHITE_BLACKGROUND = "\u001B[47m";
-	
-	//Cor do fundo intensidade
-		public static final String ANSI_BLACK_BLACKGROUND_BRIGHT = "\033[0;100m";
-		public static final String ANSI_RED_BLACKGROUND_BRIGHT   = "\033[0;101m";
-		public static final String ANSI_GREEN_BLACKGROUND_BRIGHT   = "\033[0;102m";
-		public static final String ANSI_YELLOW_BLACKGROUND_BRIGHT  = "\033[0;103m";
-		public static final String ANSI_BLUE_BLACKGROUND_BRIGHT   = "\033[0;104m";
-		public static final String ANSI_PURPLE_BLACKGROUND_BRIGHT   = "\033[0;105m";
-		public static final String ANSI_CYAN_BLACKGROUND_BRIGHT  = "\033[0;106m";
-		public static final String ANSI_WHITE_BLACKGROUND_BRIGHT  = "\033[0;107m";
+
+	// Cor do fundo intensidade
+	public static final String ANSI_BLACK_BLACKGROUND_BRIGHT = "\033[0;100m";
+	public static final String ANSI_RED_BLACKGROUND_BRIGHT = "\033[0;101m";
+	public static final String ANSI_GREEN_BLACKGROUND_BRIGHT = "\033[0;102m";
+	public static final String ANSI_YELLOW_BLACKGROUND_BRIGHT = "\033[0;103m";
+	public static final String ANSI_BLUE_BLACKGROUND_BRIGHT = "\033[0;104m";
+	public static final String ANSI_PURPLE_BLACKGROUND_BRIGHT = "\033[0;105m";
+	public static final String ANSI_CYAN_BLACKGROUND_BRIGHT = "\033[0;106m";
+	public static final String ANSI_WHITE_BLACKGROUND_BRIGHT = "\033[0;107m";
 
 }
